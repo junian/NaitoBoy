@@ -1,0 +1,416 @@
+
+planetcute.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+heart_gray
+  rotate: false
+  xy: 1, 866
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+heart_red
+  rotate: false
+  xy: 104, 866
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+block_brown
+  rotate: false
+  xy: 207, 796
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+block_dirt
+  rotate: false
+  xy: 310, 796
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+block_grass
+  rotate: false
+  xy: 413, 796
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+block_plain
+  rotate: false
+  xy: 516, 796
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+block_ramp_east
+  rotate: false
+  xy: 619, 796
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+block_ramp_north
+  rotate: false
+  xy: 722, 796
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+block_ramp_south
+  rotate: false
+  xy: 825, 796
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+block_ramp_west
+  rotate: false
+  xy: 1, 693
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+block_stone
+  rotate: false
+  xy: 104, 693
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+block_stone_tall
+  rotate: false
+  xy: 207, 623
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+block_wall
+  rotate: false
+  xy: 310, 623
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+block_wall_tall
+  rotate: false
+  xy: 413, 623
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+block_water
+  rotate: false
+  xy: 516, 623
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+block_wood
+  rotate: false
+  xy: 619, 623
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+chara_boy
+  rotate: false
+  xy: 722, 623
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+chara_cat_girl
+  rotate: false
+  xy: 825, 623
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+chara_enemy_bug
+  rotate: false
+  xy: 1, 520
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+chara_horn_girl
+  rotate: false
+  xy: 104, 520
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+chara_pink_girl
+  rotate: false
+  xy: 207, 450
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+chara_princess_girl
+  rotate: false
+  xy: 310, 450
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+object_chest_closed
+  rotate: false
+  xy: 413, 450
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+object_chest_lid
+  rotate: false
+  xy: 516, 450
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+object_chest_open
+  rotate: false
+  xy: 619, 450
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+object_door_tall_closed
+  rotate: false
+  xy: 722, 450
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+object_door_tall_open
+  rotate: false
+  xy: 825, 450
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+object_gem_blue
+  rotate: false
+  xy: 1, 347
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+object_gem_green
+  rotate: false
+  xy: 104, 347
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+object_gem_orange
+  rotate: false
+  xy: 207, 277
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+object_heart
+  rotate: false
+  xy: 310, 277
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+object_key
+  rotate: false
+  xy: 413, 277
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+object_rock
+  rotate: false
+  xy: 516, 277
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+object_star
+  rotate: false
+  xy: 619, 277
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+object_tree_short
+  rotate: false
+  xy: 722, 277
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+object_tree_tall
+  rotate: false
+  xy: 825, 277
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+object_tree_ugly
+  rotate: false
+  xy: 1, 174
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+object_window_tall
+  rotate: false
+  xy: 104, 174
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+roof_east
+  rotate: false
+  xy: 207, 104
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+roof_north
+  rotate: false
+  xy: 310, 104
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+roof_north_east
+  rotate: false
+  xy: 413, 104
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+roof_north_west
+  rotate: false
+  xy: 516, 104
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+roof_south
+  rotate: false
+  xy: 619, 104
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+roof_south_east
+  rotate: false
+  xy: 722, 104
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+roof_south_west
+  rotate: false
+  xy: 825, 104
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+roof_west
+  rotate: false
+  xy: 1, 1
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+selector
+  rotate: false
+  xy: 104, 1
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+
+planetcute2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: false
+  xy: 1, 347
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+shadow_east
+  rotate: false
+  xy: 1, 174
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+shadow_north
+  rotate: false
+  xy: 515, 688
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+shadow_north_east
+  rotate: false
+  xy: 1, 1
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+shadow_north_west
+  rotate: false
+  xy: 104, 174
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+shadow_side_west
+  rotate: false
+  xy: 515, 515
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+shadow_south
+  rotate: false
+  xy: 618, 688
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+shadow_south_east
+  rotate: false
+  xy: 104, 1
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+shadow_south_west
+  rotate: false
+  xy: 207, 174
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+shadow_west
+  rotate: false
+  xy: 618, 515
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+speech_bubble
+  rotate: false
+  xy: 721, 688
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
